@@ -1,3 +1,5 @@
+# How it works
+![Alt text](https://img.youtube.com/vi/ihEWYwGL_jQ/0.jpg)](https://www.youtube.com/watch?v=ihEWYwGL_jQ&feature=youtu.be)
 # CHATBOT-Cough detection and automated response
 
 ## build librnnoise & rnnoise_demo with CMake
