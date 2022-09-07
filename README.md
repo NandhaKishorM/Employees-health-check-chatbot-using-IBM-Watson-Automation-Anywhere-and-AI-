@@ -87,4 +87,4 @@ and import flows.json from folder "node-red app"
 # Integrating with Automation Anywhere
 ![alt text](https://github.com/kishorkuttan/Employees-health-check-chatbot-using-IBM-Watson-Automation-Anywhere-and-AI-/blob/master/automation.png?raw=true)
 
-Combine the result from the app/program interface(Many of the health queries & results can be pushed to our API) and upload it to a RESTful API endpoint. We can call the end point in our AA and do rest of the automation like health analysis.
+Combine the result from the app/program interface(Many of the health queries & results can be pushed to our API) and upload it to a RESTful API endpoint. We can call the end point in our AA and do rest of the automation like health analysis..
